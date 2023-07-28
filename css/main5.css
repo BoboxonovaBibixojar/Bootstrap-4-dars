@@ -1,0 +1,186 @@
+
+
+body{
+    background-color: pink;
+}
+.bosh{
+    box-shadow: 0 0 20px rgba(80,80,80,0.3);
+    width: 700px !important;
+    height: 130px !important;
+    background-color: white;
+    margin-top: 50px;
+    padding-top:10px;
+    margin-left: 30px !important;
+}
+.bir{
+    margin-left: -35px !important;
+}
+.col{
+    margin-left: 30px !important;
+    font-size: 25px !important;
+    position: absolute;
+    float: left !important;
+}
+.text1{
+    position: absolute;
+    color: grey;
+    margin-left: 220px !important;
+    margin-top: -70px !important;
+    float: left !important;
+}
+.text2{
+    margin-left:130px !important;
+    position: absolute;
+    font-size: 20px;
+    margin-top: -40px;
+}
+.text3{
+    margin-top: -40px;
+    font-size: 20px;
+    margin-left: 200px !important;
+    color: deeppink;
+    position: absolute;
+}
+.yozuv{
+    position: absolute;
+    font-size: 50px !important;
+    margin-left:450px;
+    margin-top: -30px;
+}
+.uch{
+     margin-bottom:50px;
+}
+.col1{
+    margin-left: 30px !important;
+    font-size: 25px !important;
+    position: absolute;
+    float: left !important;
+}
+.text11{
+    position: absolute;
+    color: grey;
+    margin-left: 220px !important;
+    margin-top: -70px !important;
+    float: left !important;
+}
+.text21{
+    margin-left:130px !important;
+    position: absolute;
+    font-size: 20px;
+    margin-top: -40px;
+}
+.text31{
+    margin-top: -40px;
+    font-size: 20px;
+    margin-left: 180px !important;
+    color: deeppink;
+    position: absolute;
+}
+.yozuv1{
+    position: absolute;
+    font-size: 50px !important;
+    margin-left:450px;
+    margin-top: -30px;
+}
+.uch1{
+    margin-bottom:50px;
+}
+.col2{
+    margin-left: 30px !important;
+    font-size: 25px !important;
+    position: absolute;
+    float: left !important;
+}
+.text12{
+    position: absolute;
+    color: grey;
+    margin-left: 220px !important;
+    margin-top: -70px !important;
+    float: left !important;
+}
+.text22{
+    margin-left:130px !important;
+    position: absolute;
+    font-size: 20px;
+    margin-top: -40px;
+}
+.text32{
+    margin-top: -40px;
+    font-size: 20px;
+    margin-left: 200px !important;
+    color: deeppink;
+    position: absolute;
+}
+.yozuv2{
+    position: absolute;
+    font-size: 50px !important;
+    margin-left:450px;
+    margin-top: -30px;
+}
+.uch2{
+    margin-bottom:50px;
+}
+.col3{
+    margin-left: 30px !important;
+    font-size: 25px !important;
+    position: absolute;
+    float: left !important;
+}
+.text13{
+    position: absolute;
+    color: grey;
+    margin-left: 220px !important;
+    margin-top: -70px !important;
+    float: left !important;
+}
+.text23{
+    margin-left:130px !important;
+    position: absolute;
+    font-size: 20px;
+    margin-top: -40px;
+}
+.text33{
+    margin-top: -40px;
+    font-size: 20px;
+    margin-left: 180px !important;
+    color: deeppink;
+    position: absolute;
+}
+.yozuv3{
+    position: absolute;
+    font-size: 50px !important;
+    margin-left:450px;
+    margin-top: -25px;
+}
+.uch3{
+    margin-bottom:50px;
+}
+.yozuv11{
+    margin-top: -40px;
+    font-size: 20px;
+    margin-left: 200px !important;
+    color: deeppink;
+    position: absolute;
+}.yozuv12{
+     margin-top: -40px;
+     font-size: 20px;
+     margin-left:300px !important;
+     color: deeppink;
+     position: absolute;
+ }
+ .feed{
+     margin-top: -100px;
+     background-color: white;
+     width: 800px;
+     padding-top: 30px;
+     text-align: center;
+     margin-left: -13px;
+     height: 120px;
+ }
+ .hammasi{
+     width: 800px !important;
+     height: 900px;
+     padding-top: 15px;
+     margin-top: 100px;
+     margin-left: -100px !important;
+ }

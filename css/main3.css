@@ -1,0 +1,16 @@
+body{
+    background-color: deepskyblue !important;
+}
+
+.bir{
+    color: white;
+    border: 2px solid white;
+    border-radius: 30px !important;
+    padding: 10px !important;
+
+}
+.ikki{
+    color: white;
+    text-align: center;
+    box-shadow:0 0 10px rgba(80,80,80,0.3);
+}
